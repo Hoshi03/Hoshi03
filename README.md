@@ -18,11 +18,11 @@
 
 
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hoshi03.tistory.com/)](https://hoshi03.tistory.com/)<br/>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hoshi03.tistory.com/)](https://hoshi03.tistory.com/)
 https://hoshi03.tistory.com<br/><br/>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ichanho114@gmail.com)](mailto:ichanho114@gmail.com)<br/>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ichanho114@gmail.com)](mailto:ichanho114@gmail.com)
 ichanho114@gmail.com<br/><br/>
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rmswkfl@naver.com)](mailto:rmswkfl@naver.com)<br/>
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rmswkfl@naver.com)](mailto:rmswkfl@naver.com)
 rmswkfl@naver.com<br/>
 
 
