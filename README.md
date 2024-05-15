@@ -7,9 +7,11 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-%23444444?&style=for-the-badge&logo=Unity&logoColor=white)
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![intellij idea](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white)
+
 
 # Projects
 https://github.com/Hoshi03/Shop<br>
@@ -25,7 +27,7 @@ https://github.com/Hoshi03/KATANA-CODE<br>
 리듬게임 vr씬 제작, json으로 곡 데이터(점수, 랭크, 클리어률)와 인게임 노트 타이밍과 타입 json으로 저장하는 역할을 맡았습니다
 
 https://github.com/Hoshi03/HIGH-SEA<br>
-2020년 SW/ICT 학술제에 출품해 최우수상을 수상한 로그라이크 스토리 게임 HIGH-SEA 입니다
+2020년 SW/ICT 학술제에 출품해 최우수상을 수상한 유니티 로그라이크 스토리 게임 HIGH-SEA 입니다
 프로그래밍 파트를 맡았습니다
 
 
