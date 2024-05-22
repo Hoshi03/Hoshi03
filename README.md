@@ -16,7 +16,7 @@
 # Projects
 https://github.com/Hoshi03/Shop<br>
 스프링 부트로 쇼핑몰 앱을 만들어보면서 JPA, Spring Security, aws S3를 이용한 이미지 업로드, aws beanstalk를 이용한 배포 등을 학습했습니다<br>
-http://hoshi03shop1-env.eba-um3dhika.ap-northeast-2.elasticbeanstalk.com/list <- 배포한 사이트 링크입니다
+http://hoshi03shop-env.eba-um3dhika.ap-northeast-2.elasticbeanstalk.com/ <- 배포한 사이트 링크입니다
 
 https://github.com/Hoshi03/JARAM_WORKSHOP_TEAM4<br>
 자람 하계 워크숍때 제작한 ChatGpt api와 papago api를 이용한 챗봇입니다
