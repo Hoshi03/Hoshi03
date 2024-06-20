@@ -32,9 +32,9 @@ https://github.com/Hoshi03/HIGH-SEA<br>
 
 
 # 🍀자격증
+* 정보처리기사
 * SQLD
 * 컴퓨터활용능력 1급
-* 정보처리기사(필기)
 
 
 # :mailbox_with_mail: Contacts
