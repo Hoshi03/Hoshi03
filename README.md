@@ -1,7 +1,6 @@
 # LEE CHAN HO 😉
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshi03)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=didqocn114)](https://solved.ac/didqocn114/)
+
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -12,6 +11,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![intellij idea](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshi03)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=didqocn114)](https://solved.ac/didqocn114/)
 
 # Projects
 https://github.com/Hoshi03/Shop<br>
