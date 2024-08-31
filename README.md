@@ -24,11 +24,13 @@ https://github.com/Hoshi03/JARAM_WORKSHOP_TEAM4<br>
 식재료를 추가한 후 챗봇에게 전송하면<br>해당 재료로 가능한 레시피를 말해줍니다
 
 https://github.com/Hoshi03/KATANA-CODE<br>
-졸업작품으로 제작한 유니티 VR 리듬게임입니다
+졸업작품으로 제작해 우수상을 수상한 유니티 VR 리듬게임 KATANA-CODE 입니다
 리듬게임 vr씬 제작, json으로 곡 데이터(점수, 랭크, 클리어률)와 <br>인게임 노트 타이밍과 타입 json으로 저장하는 역할을 맡았습니다
+https://youtu.be/0ittAnvsx0A <- 발표 영상입니다
 
 https://github.com/Hoshi03/HIGH-SEA<br>
 2020년 SW/ICT 학술제에 출품해 최우수상을 수상한 유니티 로그라이크 어드벤쳐 게임 HIGH-SEA 입니다
+https://youtu.be/v6rEIY9sz6o <- 발표 영상입니다
 프로그래밍 파트를 맡았습니다
 
 
