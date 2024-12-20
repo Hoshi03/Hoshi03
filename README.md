@@ -21,7 +21,7 @@ https://github.com/Hoshi03/Shop<br>
 
 https://github.com/Hoshi03/JARAM_WORKSHOP_TEAM4<br>
 자람 하계 워크숍때 제작한 ChatGpt api와 papago api를 이용한 챗봇입니다
-식재료를 추가한 후 챗봇에게 전송하면<br>해당 재료로 가능한 레시피를 말해줍니다
+식재료를 추가한 후 챗봇에게 전송하면<br>해당 재료로 가능한 레시피를 추천합니다
 
 https://github.com/Hoshi03/KATANA-CODE<br>
 졸업작품으로 제작해 우수상을 수상한 유니티 VR 리듬게임 KATANA-CODE 입니다
