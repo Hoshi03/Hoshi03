@@ -16,6 +16,13 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=didqocn114)](https://solved.ac/didqocn114/)
 
 # Projects
+
+https://github.com/Hoshi03/DevTurtle
+Servlet/Jsp를 이용해서 만든 개발자 취업준비생의 지속적인 성장을 돕는 서비스 DevTurtle 입니다<br> 
+서비스의 사용자들은 각자의 GIT의 커밋(commit), 이슈(issue), 풀 리퀘스트(pull request) 내역과<br>
+solved.ac에 제출한 코딩 테스트 풀이 내역을 점수로 환산해서 점수로 가지며 그에 따른 랭킹을 부여받습니다.<br>
+사용자/그룹 랭킹과 검색 기능을 구현햇습니다
+
 https://github.com/Hoshi03/Shop<br>
 스프링 부트로 쇼핑몰 앱을 만들어보면서 JPA, Spring Security, aws S3를 이용한 이미지 업로드, aws beanstalk를 이용한 배포 등을 학습했습니다<br>
 
