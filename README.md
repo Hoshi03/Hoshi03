@@ -17,7 +17,7 @@
 
 # Projects
 
-https://github.com/Hoshi03/DevTurtle
+https://github.com/Hoshi03/DevTurtle <br>
 Servlet/Jsp를 이용해서 만든 개발자 취업준비생의 지속적인 성장을 돕는 서비스 DevTurtle 입니다<br> 
 서비스의 사용자들은 각자의 GIT의 커밋(commit), 이슈(issue), 풀 리퀘스트(pull request) 내역과<br>
 solved.ac에 제출한 코딩 테스트 풀이 내역을 점수로 환산해서 점수로 가지며 그에 따른 랭킹을 부여받습니다.<br>
